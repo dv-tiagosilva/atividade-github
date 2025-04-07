@@ -1,1 +1,5 @@
+
 Vou gerar um conflito
+
+Esse é o conflito 2
+
